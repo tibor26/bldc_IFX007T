@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "nucleo32g0", "nucleo32g0.vgdbcmake", "{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{6DD8E7C6-F2BD-445C-826B-0FBFF25C3EC2}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
