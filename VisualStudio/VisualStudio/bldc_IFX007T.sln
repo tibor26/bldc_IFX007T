@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bldc_IFX007T", "bldc_IFX007T.vcxproj", "{C226CB05-3AE3-4FBD-A4B4-389666CAF454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C226CB05-3AE3-4FBD-A4B4-389666CAF454}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{C226CB05-3AE3-4FBD-A4B4-389666CAF454}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{C226CB05-3AE3-4FBD-A4B4-389666CAF454}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{C226CB05-3AE3-4FBD-A4B4-389666CAF454}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E723A205-1175-45C0-A4CA-D0301B7825F1}
+	EndGlobalSection
+EndGlobal
