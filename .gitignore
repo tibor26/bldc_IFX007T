@@ -1,0 +1,14 @@
+Debug/
+*.launch
+.settings/
+
+# Visual Studio
+VisualStudio/VisualGDB/
+VisualStudio/.vs/
+VisualStudio/.visualgdb/VisualGDBCache/
+VisualStudio/.visualgdb/CodeDB/
+VisualStudio/.visualgdb/CodeExplorer/NodeFlags.dat
+VisualStudio/*.user
+
+*.bin
+*.hex
